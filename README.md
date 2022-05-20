@@ -1,6 +1,6 @@
 # Jar files for TLA+ Community Modules
 
-These jar files are requred by https://github.com/tlaplus/CommunityModules.
+These jar files are required by https://github.com/tlaplus/CommunityModules.
 
 To use these files, pass the classpath option to Java like below.
 
